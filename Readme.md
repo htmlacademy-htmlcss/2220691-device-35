@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Анастасия Сударова](https://up.htmlacademy.ru/htmlcss/35/user/2220691).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel).
 
 ---
 
